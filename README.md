@@ -148,7 +148,7 @@ In this step of our exercise, we will add a "build" job. We will specify `ubuntu
 </details>
 
 <!--
-  <<< Author notes: Step 3 >>>
+  <<< Author notes: Step 3  >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
